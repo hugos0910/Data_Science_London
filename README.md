@@ -24,4 +24,6 @@ Since the classifier training and test set prediction time for this dataset is l
 * Extra Trees - 0.92084
 * Random Forest - 0.90437
 * Logistic Regression -  0.81333
+
+
 The cross-validation accuracy closely resembles the prediction accuracy of the test data.  It is not surprising that the SVM outperforms the KNN for the test set, since they had extremely close cross-validation accruacy.
